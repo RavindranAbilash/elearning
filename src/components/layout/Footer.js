@@ -53,9 +53,7 @@ function Footer(){
                     </Grid>
                     <Grid container item md={4}>
                     </Grid>
-                    <Grid container item md={2}>
-                        <Typography style={{color:"white" ,border:"solid 1px white" }}>English</Typography>
-                    </Grid>
+
 
                 </Grid>
                 <Grid container item style={{paddingLeft:35,paddingTop:50}}>
